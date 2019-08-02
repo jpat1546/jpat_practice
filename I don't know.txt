@@ -1,0 +1,75 @@
+data type:  a particular kind of data item, as defined by the values it can take, the programming language used, or the operations that can be performed on it.
+
+
+BioCompute data types are defined as aggregates of the critical fields organized into a few domains: 
+1)the descriptive domain: Structured field for description of external references, the pipeline steps, and the relationship of I/O objects.
+	keywords
+	xref
+	pipeline_steps
+		step_number
+		name
+		description
+		version
+		prerequisite
+		input list
+		output list
+2)the identification and provenance domain, 
+	name
+	structuredname: optional templated computable text field designed to represent a BCO instance name in visible interfaces
+	version
+	review: review status
+	inheritence/derivation: parent object specififed
+	obsocescence: expiration 
+	embargo: start/end times
+	created:
+	modified
+	Contributors
+	license
+	
+3)the input and output domains
+	input_subdomain
+	output_subdomain
+	
+4)the parametric domain 
+
+5)the environmental domain, 
+
+6)the execution domain
+	Script_access_tupe
+	script
+	pipeline version
+	platform
+	script-driver
+	software_prereqs
+	domain_prereqs
+	env_parameters
+	
+7) the prerequisite domain,
+ 
+8)the usability domain: This field is to aid in search-ability and provide a specific description of the object.
+	The usability domain along with keywords can help determine when and how the BCO can be used.
+	and the error domain. 
+
+
+At the time of submission to the BioCompute Object database an instance of BCO type is created, populated with actual values compliant with the data type definitions and assigned a unique identifier. The object could then be assigned a unique digital signature and a unique digital object identifier.
+ 
+ 
+ 
+ extension domain: for a user to add more structured information that is defined in the type definition. This section is not evaluated by checks for BCO validity or computational correctness. Two examples follow:
+ 	Extension to external references
+	
+	
+	
+
+8 main domains:
+	1) Provenance-yes 2
+	2) Usability-yes-8
+	3) Extension
+	4) Desicription- yes 1
+	5) Execution-yes 6
+	6) Parametric-yes 4
+	7) IO_domain-yes 3
+	8) Error domain
+	
+	NO ENVIRONMENTAL DOMAIN
+	HAS A PREREQUISITE DOMAIN ?? In the spec doc, "domain_prerequisites" is under execution domain. 

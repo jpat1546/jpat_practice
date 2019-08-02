@@ -1,0 +1,38 @@
+Game Plan [Python]
+
+200 pages
+d
+Monday 12/31 
+	Preface
+	[1] Why should you learn to write programs 1-16
+		2-3pm
+	[2] Variables, expressions, and statements 19-30
+		3-4pm
+	[3] Conditional Execution 31-40
+		4-5pm
+	[4] Functions 43-54
+		5-6pm
+
+Tuesday
+	[5] Iteration 57-65
+		8-9am
+	[6] Strings 67-77
+		9-10am
+	[7] Files 79-88
+		10-11am
+	[8] Lists 91-105
+		11-12pm
+	[9] Dictionaries 107-117
+		12-1pm
+
+Wednesday
+	[10] Tuples 117-126
+	[11] RegEx 129-140
+	[12] Networked Programs 143- 151
+	[13] Used Web Services 153-160
+	[14] Using Databases and SQL 161-182
+
+Thursday
+	[15] Automating common tasks on your computer 183-192
+	[B] Python Programming on Mac 197
+	

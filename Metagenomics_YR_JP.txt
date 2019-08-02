@@ -48,7 +48,7 @@
         "Identify the most common organism present in a human [taxID:9606] fecal [UBERON:0001988] sample, ", 
         "Identify the general community composition of organisms in a human [taxID:9606] fecal [UBERON:0001988] sample, ", 
         "CensuScope is used to do a census of the composition of the read files. Based on a user-defined threshold, organisms identified are used for alignment in the Hexagon alignment."
-    ],
+    ],w
     "extension_domain":{
         "scm_extension": {
             "scm_repository": "https://github.com/biocompute-objects/HIVE_metagenomics",
