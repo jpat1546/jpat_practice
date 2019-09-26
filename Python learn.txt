@@ -1,7 +1,7 @@
 Game Plan [Python]
 
 200 pages
-d
+
 Monday 12/31 
 	Preface
 	[1] Why should you learn to write programs 1-16
